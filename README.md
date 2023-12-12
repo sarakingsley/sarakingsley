@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarakingsley
 - 👀 I’m interested in building systems to help users overcome information inequalities online that affect their economic well-being.
 - 🌱 I’m currently learning about privacy policy and engineering.
-- 💞️ I’m looking to collaborate on a system to crowdsource medical device malfunction reports.
+- 💞️ I'm currently looking to collaborate on building generative AI red-teaming tools.
 - 📫 How to reach me: <skingsle@cs.cmu.edu>
 
 <!---
