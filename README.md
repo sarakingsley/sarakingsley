@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sarakingsley
-- 👀 I’m interested in building systems to help users overcome information inequalities online that affect their economic well-being.
-- 🌱 I’m currently learning about privacy policy and engineering.
+- 👋 Hi, I’m Sara Kingsley. 
+- 👀 I’m interested in building systems to assess the risks of AI for economies. 
+- 🌱 Most of my work focuses on building transformer models for automated or human-augmented AI system evaluation, metrics for these evaluations, and data science tools for AI/ML. 
 - 💞️ I'm currently looking to collaborate on building generative AI red-teaming tools.
 - 📫 How to reach me: <skingsle@cs.cmu.edu>
 
