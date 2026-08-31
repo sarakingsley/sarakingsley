@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sara Kingsley. 
 - 👀 I’m interested in building systems to assess the risks of AI for economies. 
 - 🌱 Most of my work focuses on building transformer models for automated or human-augmented AI system evaluation, metrics for these evaluations, and data science tools for AI/ML. 
-- 💞️ I'm currently looking to collaborate on building generative AI red-teaming tools.
+- 💞️ I'm currently conducting research on AI security and AI teaching pedagogy (centered on transformer models). 
 - 📫 How to reach me: <skingsle@cs.cmu.edu>
 
 <!---
